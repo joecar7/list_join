@@ -1,0 +1,4 @@
+The .h file are copied from linux kernel's list.h and modified.
+This makes it open source per the usual linux open source license.
+
+The __list_join() abstracion is invented by me (joecar).
