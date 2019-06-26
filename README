@@ -2,4 +2,4 @@
 Add "join" abstraction to the classic linux list interface;
 use "join" abstraction to simplify list_cut and list_splice.
 Also add/imptove functionality.
-Provide testing.
+Provide testing, see list[0-9].c.
